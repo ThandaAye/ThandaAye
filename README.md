@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Tracy has 7+ years of experience in full-stack development. She's the technical lead at Stacs and is responsible for the architecture and development of the Vetta Smart Contract Platform. She has a wide variety of knowledge on blockchain and smart contracts, delivering for enterprise organizations like the Philippine Dealing System (PDS Group). She was previously involved in developing the eSign platform for the Government of Singapore Investment Corporation (GIC), the digital platform for the secondary trading of trade finance obligations for Capital & Credit Risk Manager (CCRManager), and the SGX stock market for StarHub IPTV. Tracy graduated with a Post Graduate Diploma in Systems Analysis from the National University of Singapore (NUS).
+
 <!--
 **ThandaAye/ThandaAye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
