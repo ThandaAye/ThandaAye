@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/thandaaye"><img src="https://api.daily.dev/devcards/c07bcfccc6c442d5a01b730a544edba2.png?r=ohl" width="400" alt="Thanda Aye's Dev Card"/></a>
+<a href="https://app.daily.dev/thandaaye"><img src="https://api.daily.dev/devcards/v2/CFKAvlTZcwnZ0d1f4WKeO.png?type=default&r=3jc" width="356" alt="Thanda Aye  Tracy's Dev Card"/></a><br/>
 Tracy has more than eight years of experience in full-stack development in Singapore. She previously served as the technical lead at ESGpedia, where she was responsible for the architecture and development of the ESGpedia and Vetta Smart Contract Platform. With a broad expertise in system design and architecture, Tracy has delivered solutions for enterprise organizations, including the Philippine Dealing System (PDS Group), Eastspring Investments, and CSOP Asset Management. She also serves as the technical mentor for SGInnovate's PowerX Software and Product Development Program.
 
 Her prior experience includes developing an e-Sign platform for the Government of Singapore Investment Corporation (GIC), creating a digital platform for secondary trade finance obligations for Capital & Credit Risk Manager (CCRManager), and working on SGX stock market integrations for StarHub IPTV.
