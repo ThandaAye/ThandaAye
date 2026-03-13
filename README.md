@@ -11,18 +11,18 @@ Mentor, SGInnovate PowerX Program - Mentored aspiring technologists in software 
 
 TECHNICAL SKILLS
 
-• AI-Augmented Development: Claude Code
-• Languages: Java, Python, JavaScript, TypeScript, SQL
-• Frontend: React.js, Redux, HTML5, CSS3
-• Backend & Frameworks: Spring Boot, Hibernate, Maven, Node.js, NestJS, Express.js, REST APIs, OAuth2
-• Cloud & Infrastructure: Amazon Web Services (AWS): ECS, EKS, RDS, S3, Lambda, API Gateway, VPC, IAM, Cognito, CloudFormation, CodePipeline
-• Data Engineering: Apache Spark, PySpark, Snowflake, AWS Redshift, Databricks, AWS Glue
-• Data Quality & Governance: Great Expectations, AWS DataZone, Data Lineage, Data Catalog, ETL/ELT Pipelines
-• Databases: PostgreSQL, MySQL, MongoDB, Amazon DynamoDB
-• DevOps & CI/CD: Docker, Kubernetes, Helm Charts, Terraform, Jenkins, Bitbucket Pipelines, SonarQube
-• Monitoring & Observability: Datadog, Grafana
-• Testing & QA: JUnit, Mockito, Selenium, Cucumber (TDD/BDD)
-• Methodologies & Tools: Agile, Scrum, SDLC, JIRA, Confluence, Git, Bitbucket, Postman, Stripe Payment
+• AI-Augmented Development: Claude Code<br/>
+• Languages: Java, Python, JavaScript, TypeScript, SQL<br/>
+• Frontend: React.js, Redux, HTML5, CSS3<br/>
+• Backend & Frameworks: Spring Boot, Hibernate, Maven, Node.js, NestJS, Express.js, REST APIs, OAuth2<br/>
+• Cloud & Infrastructure: Amazon Web Services (AWS): ECS, EKS, RDS, S3, Lambda, API Gateway, VPC, IAM, Cognito, CloudFormation, CodePipeline<br/>
+• Data Engineering: Apache Spark, PySpark, Snowflake, AWS Redshift, Databricks, AWS Glue<br/>
+• Data Quality & Governance: Great Expectations, AWS DataZone, Data Lineage, Data Catalog, ETL/ELT Pipelines<br/>
+• Databases: PostgreSQL, MySQL, MongoDB, Amazon DynamoDB<br/>
+• DevOps & CI/CD: Docker, Kubernetes, Helm Charts, Terraform, Jenkins, Bitbucket Pipelines, SonarQube<br/>
+• Monitoring & Observability: Datadog, Grafana<br/>
+• Testing & QA: JUnit, Mockito, Selenium, Cucumber (TDD/BDD)<br/>
+• Methodologies & Tools: Agile, Scrum, SDLC, JIRA, Confluence, Git, Bitbucket, Postman, Stripe Payment<br/>
 
 
 <!--
