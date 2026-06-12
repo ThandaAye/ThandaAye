@@ -10,13 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Software Engineer and Technical Lead with **8+ years** of experience designing and delivering enterprise-grade solutions. Specializing in **Java**, **Spring Boot**, **Node.js**, **TypeScript**, **React.js**, **Python**, and **AWS**.
-
-📊 **Key Impact**: Reduced production defects by **60%** | Improved deployment reliability by **40%** | Cut cloud infrastructure costs by **25%**
-
-🎓 **Master's in Data Analytics** (Sep 2024 – Mar 2026) — Specializing in ETL orchestration, data analysis, data lineage, data catalog, and data quality frameworks
-
-🚀 **Current Role**: Mentor at SGInnovate PowerX Program — Guiding aspiring technologists in software engineering fundamentals and career development
+Full-Stack Software Engineer and Technical Lead with **9 years** of experience designing and delivering enterprise-grade solutions. Specializing in **Java**, **Spring Boot**, **Node.js**, **TypeScript**, **React.js**, **Python**, and **AWS**.
 
 ---
 
@@ -49,7 +43,7 @@ Full-Stack Software Engineer and Technical Lead with **8+ years** of experience 
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
-    <td>PostgreSQL • MySQL • MongoDB • Amazon DynamoDB</td>
+    <td>PostgreSQL • MySQL • MongoDB • Amazon DynamoDB • Elasticsearch</td>
   </tr>
   <tr>
     <td><strong>DevOps & CI/CD</strong></td>
